@@ -1,0 +1,26 @@
+﻿<Window x:Class="mvvmPersonTable.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mvvmPersonTable"
+        xmlns:views = "clr-namespace:mvvmPersonTable.View"
+        xmlns:vm="clr-namespace:mvvmPersonTable.ViewModel"
+        ResizeMode="NoResize"
+        mc:Ignorable="d"
+        DataContext="{Binding MainViewModel, Source={StaticResource Locator}}"
+        Title="wpf-person-table" Height="405.5" Width="525">
+        
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type vm:DataGridViewModel}">
+            <views:DataGridView/>
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type vm:DataEntryFormViewModel}">
+            <views:DataEntryFormView/>
+        </DataTemplate>
+    </Window.Resources>
+
+    <ContentControl Content="{Binding CurrentViewModel}"/>
+
+</Window>

@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="mvvmPersonTable.View.DataGridView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" Height="382" Width="497">
+    
+    <Grid>
+
+        <DataGrid SelectedItem ="{Binding SelectedPerson}" CanUserAddRows ="False" ItemsSource="{Binding PersonList}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Height="264" Width="477" AutoGenerateColumns="True"/>
+
+        <Button  Command ="{Binding ButtonCommand}" IsEnabled="{Binding IsChanged}" CommandParameter ="cancel" Content="Cancel" HorizontalAlignment="Center" VerticalAlignment="Center" Width="77" Height="21" Margin="10,304,410.333,57"  />
+        <Button  Command ="{Binding ButtonCommand}" IsEnabled="{Binding IsChanged}" CommandParameter ="save" Content="Save" HorizontalAlignment="Center" VerticalAlignment="Center" Width="78" Height="20" Margin="92,305,327.333,57"  />
+        <Button  Command ="{Binding ButtonCommand}" CommandParameter ="add" Content="Add" HorizontalAlignment="Center" VerticalAlignment="Center" Width="77" Height="20" Margin="10,279,410.333,83" />
+        <Button  Command ="{Binding ButtonCommand}" CommandParameter="delete" Content="Delete" HorizontalAlignment="Center" VerticalAlignment="Center" Width="78" Height="20" Margin="92,279,327.333,83"  />
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,73 @@
+c:\users\drkar\documents\visual studio 2015\Projects\mvvmPersonTable\mvvmPersonTable\bin\Debug\mvvmPersonTable.exe.config
+c:\users\drkar\documents\visual studio 2015\Projects\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable.csprojResolveAssemblyReference.cache
+c:\users\drkar\documents\visual studio 2015\Projects\mvvmPersonTable\mvvmPersonTable\obj\Debug\MainWindow.g.cs
+c:\users\drkar\documents\visual studio 2015\Projects\mvvmPersonTable\mvvmPersonTable\obj\Debug\App.g.cs
+c:\users\drkar\documents\visual studio 2015\Projects\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable_MarkupCompile.cache
+c:\users\drkar\documents\visual studio 2015\Projects\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable_MarkupCompile.lref
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\bin\Debug\mvvmPersonTable.exe.config
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable.csprojResolveAssemblyReference.cache
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\obj\Debug\MainWindow.g.cs
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\obj\Debug\View\PersonView.g.cs
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\obj\Debug\App.g.cs
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable_MarkupCompile.cache
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable_MarkupCompile.lref
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\bin\Debug\mvvmPersonTable.exe
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\bin\Debug\mvvmPersonTable.pdb
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\obj\Debug\MainWindow.baml
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\obj\Debug\View\PersonView.baml
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable.g.resources
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable.Properties.Resources.resources
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable.csproj.GenerateResource.Cache
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable.exe
+C:\Users\karolus\Desktop\Nowy folder (3)\mvvm\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable.pdb
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\bin\Debug\mvvmPersonTable.exe.config
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable.exe
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable.pdb
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\bin\Debug\mvvmPersonTable.exe
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\bin\Debug\mvvmPersonTable.pdb
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable.csprojResolveAssemblyReference.cache
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\obj\Debug\MainWindow.g.cs
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\obj\Debug\View\PersonView.g.cs
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\obj\Debug\App.g.cs
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable_MarkupCompile.cache
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable_MarkupCompile.lref
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\obj\Debug\MainWindow.baml
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\obj\Debug\View\PersonView.baml
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable.g.resources
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable.Properties.Resources.resources
+C:\Users\drkar\Desktop\mvvm projekt\mvvmPersonTable\mvvmPersonTable\obj\Debug\mvvmPersonTable.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\mvvmPersonTable.exe.config
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\mvvmPersonTable.exe
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\mvvmPersonTable.pdb
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\App.g.cs
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\mvvmPersonTable_MarkupCompile.cache
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\mvvmPersonTable_MarkupCompile.lref
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\mvvmPersonTable.g.resources
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\mvvmPersonTable.Properties.Resources.resources
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\mvvmPersonTable.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\mvvmPersonTable.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\mvvmPersonTable.exe
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\mvvmPersonTable.pdb
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\mvvmPersonTable.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\CommonServiceLocator.dll
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\mvvmPersonTable.csproj.CopyComplete
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\App.baml
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\View\DataEntryFormView.g.cs
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\View\DataEntryFormView.baml
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\View\DataGridView.baml
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\View\DataGridView.g.cs

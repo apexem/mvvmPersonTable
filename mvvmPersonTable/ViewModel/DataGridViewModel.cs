@@ -10,19 +10,19 @@ namespace mvvmPersonTable.ViewModel
 {
     public class DataGridViewModel : ViewModelBase
     {
-        private string Path;
+        private string Path { get; set; }
+        public ICommand SelectedCellChangedCommand { get; set; }
         public ICommand ButtonCommand { get; set; }
         public ObservableCollection<Person> PersonList { get; set; }
         public Person SelectedPerson { get; set; }
 
-        private bool _IsChanged;
-
+        private bool isChanged;
         public bool IsChanged
         {
-            get { return _IsChanged; }
+            get { return isChanged; }
             set
             {
-                _IsChanged = value;
+                isChanged = value;
                 OnPropertyChanged("IsChanged");
             }
         }
@@ -32,9 +32,13 @@ namespace mvvmPersonTable.ViewModel
             IsChanged = false;
             PersonList = new ObservableCollection<Person>();
             Path = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) + "/SavedCollection.xml";
+
             if (File.Exists(Path))
-                LoadData();                
+                LoadData();       
+            
             ButtonCommand = new RelayCommand(new Action<object>(ButtonHandling));
+            SelectedCellChangedCommand = new RelayCommand(new Action<object>(SelectedCellChanged));
+
             GalaSoft.MvvmLight.Messaging.Messenger.Default.Register<Person>(this, this.HandlePersonMessage);
         }
         
@@ -68,6 +72,11 @@ namespace mvvmPersonTable.ViewModel
                     SaveData();
                     break;
             }
+        }
+
+        public void SelectedCellChanged(object obj)
+        {
+            IsChanged = true;
         }
 
         public void SaveData()

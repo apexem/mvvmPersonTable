@@ -3,11 +3,18 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
              mc:Ignorable="d" Height="382" Width="497">
     
     <Grid>
 
-        <DataGrid SelectedItem ="{Binding SelectedPerson}" CanUserAddRows ="False" ItemsSource="{Binding PersonList}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Height="264" Width="477" AutoGenerateColumns="True"/>
+        <DataGrid SelectedItem ="{Binding SelectedPerson}" CanUserAddRows ="False" ItemsSource="{Binding PersonList}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Height="264" Width="477" AutoGenerateColumns="True">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="CellEditEnding">
+                    <i:InvokeCommandAction Command="{Binding SelectedCellChangedCommand}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </DataGrid>
 
         <Button  Command ="{Binding ButtonCommand}" IsEnabled="{Binding IsChanged}" CommandParameter ="cancel" Content="Cancel" HorizontalAlignment="Center" VerticalAlignment="Center" Width="77" Height="21" Margin="10,304,410.333,57"  />
         <Button  Command ="{Binding ButtonCommand}" IsEnabled="{Binding IsChanged}" CommandParameter ="save" Content="Save" HorizontalAlignment="Center" VerticalAlignment="Center" Width="78" Height="20" Margin="92,305,327.333,57"  />

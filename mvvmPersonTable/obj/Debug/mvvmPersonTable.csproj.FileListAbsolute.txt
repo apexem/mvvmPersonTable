@@ -71,3 +71,6 @@ C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\ob
 C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\View\DataEntryFormView.baml
 C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\View\DataGridView.baml
 C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\obj\Debug\View\DataGridView.g.cs
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Administrator\Downloads\wpf-mvvm-person-table-master\mvvmPersonTable\bin\Debug\System.Windows.Interactivity.xml

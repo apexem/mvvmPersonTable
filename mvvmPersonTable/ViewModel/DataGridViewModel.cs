@@ -10,7 +10,7 @@ namespace mvvmPersonTable.ViewModel
 {
     public class DataGridViewModel : ViewModelBase
     {
-        private string Path { get; set; }
+        public string Path { get; set; }
         public ICommand SelectedCellChangedCommand { get; set; }
         public ICommand ButtonCommand { get; set; }
         public ObservableCollection<Person> PersonList { get; set; }
